@@ -1,0 +1,1 @@
+exports.todayDate = new Date().toISOString().substr(0, 10)+'T00:00';
